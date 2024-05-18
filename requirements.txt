@@ -1,0 +1,7 @@
+GitPython
+langchain
+sentence_transformers
+python-dotenv
+chromadb
+flask
+ctransformers
